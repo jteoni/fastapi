@@ -1,5 +1,5 @@
-<spam>
-<p align="center>
+<samp>
+<p align="center">
 FastAPI with Python
-  </p>
-  </samp>
+</p>
+</samp>
