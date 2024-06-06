@@ -7,6 +7,6 @@ FastAPI with Python
 
 <samp>
 <p align="left">
-Project developed using Python and FastAPI. The created API is a simple CRUD for Tasks.
+Developed using Python and FastAPI, this project introduces a simple API equipped with POST, GET, PUT and DELETE methods, tailored for managing user tasks efficiently.
 </p>
 </samp>
